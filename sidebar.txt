@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bau:home|Door43 (bau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bau|d43-bau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bau/archive/master.zip|d43-bau.zip]]
+
+**Recent Changes**
+{{changes>ns = bau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bau|Ethnologue data]]
+
